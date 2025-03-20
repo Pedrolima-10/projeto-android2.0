@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@media screen and (min-width:718px) {
+    img.img-p{
+        display: none;
+    }
+
+    img.img-g{
+        display: block;
+    }
+
+
+    
+}
